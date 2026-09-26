@@ -1,0 +1,51 @@
+{
+  "name": "neo",
+  "height_mm": 260.0,
+  "grid_studs": [
+    28,
+    25
+  ],
+  "grid_plates": 82,
+  "size_mm": [
+    224,
+    262,
+    200
+  ],
+  "cells": 25311,
+  "parts": 4358,
+  "part_colour_lines": 156,
+  "steps": 592,
+  "sections": 7,
+  "stud_connections": 6033,
+  "floating_after_repair": 0,
+  "colours": {
+    "Tan": 1585,
+    "Reddish Brown": 756,
+    "Orange": 580,
+    "Dark Orange": 479,
+    "Dark Blue": 420,
+    "Medium Nougat": 277,
+    "Dark Bluish Gray": 88,
+    "White": 38,
+    "Trans-Light Blue": 30,
+    "Bright Light Orange": 29,
+    "Olive Green": 26,
+    "Bright Light Yellow": 19,
+    "Light Bluish Gray": 11,
+    "Light Aqua": 11,
+    "Dark Tan": 9
+  },
+  "bricks": 1209,
+  "plates": 3149,
+  "centre_of_mass": {
+    "x_studs": 12.562067875627198,
+    "z_studs": 9.101201058828178,
+    "y_plates": 30.550807949113032,
+    "inside_footprint": true,
+    "margin_studs": 8.601201058828178,
+    "base_cells": 642
+  },
+  "bridges": 246,
+  "eye_level_plate": -1,
+  "seconds": 4.2
+}

@@ -1,0 +1,157 @@
+part,name,ldraw_colour,colour_name,bricklink_colour_id,qty
+3005,Brick 1x1,15,White,1,5
+3004,Brick 1x2,15,White,1,2
+3622,Brick 1x3,15,White,1,3
+3010,Brick 1x4,15,White,1,1
+3024,Plate 1x1,15,White,1,24
+3023,Plate 1x2,15,White,1,2
+3623,Plate 1x3,15,White,1,1
+3005,Brick 1x1,19,Tan,2,168
+3004,Brick 1x2,19,Tan,2,84
+3622,Brick 1x3,19,Tan,2,63
+3010,Brick 1x4,19,Tan,2,39
+3009,Brick 1x6,19,Tan,2,43
+3008,Brick 1x8,19,Tan,2,76
+3003,Brick 2x2,19,Tan,2,23
+3002,Brick 2x3,19,Tan,2,17
+3001,Brick 2x4,19,Tan,2,36
+2456,Brick 2x6,19,Tan,2,41
+3007,Brick 2x8,19,Tan,2,151
+3024,Plate 1x1,19,Tan,2,425
+3023,Plate 1x2,19,Tan,2,158
+3623,Plate 1x3,19,Tan,2,54
+3710,Plate 1x4,19,Tan,2,52
+3666,Plate 1x6,19,Tan,2,35
+3460,Plate 1x8,19,Tan,2,41
+3022,Plate 2x2,19,Tan,2,16
+3021,Plate 2x3,19,Tan,2,9
+3020,Plate 2x4,19,Tan,2,19
+3795,Plate 2x6,19,Tan,2,8
+3034,Plate 2x8,19,Tan,2,7
+3031,Plate 4x4,19,Tan,2,6
+3032,Plate 4x6,19,Tan,2,1
+3035,Plate 4x8,19,Tan,2,4
+3958,Plate 6x6,19,Tan,2,1
+3036,Plate 6x8,19,Tan,2,3
+41539,Plate 8x8,19,Tan,2,5
+3005,Brick 1x1,25,Orange,4,50
+3004,Brick 1x2,25,Orange,4,15
+3622,Brick 1x3,25,Orange,4,5
+3010,Brick 1x4,25,Orange,4,2
+3009,Brick 1x6,25,Orange,4,2
+3008,Brick 1x8,25,Orange,4,1
+3024,Plate 1x1,25,Orange,4,244
+3023,Plate 1x2,25,Orange,4,94
+3623,Plate 1x3,25,Orange,4,34
+3710,Plate 1x4,25,Orange,4,20
+3666,Plate 1x6,25,Orange,4,13
+3460,Plate 1x8,25,Orange,4,27
+3022,Plate 2x2,25,Orange,4,33
+3021,Plate 2x3,25,Orange,4,20
+3020,Plate 2x4,25,Orange,4,13
+3795,Plate 2x6,25,Orange,4,1
+3034,Plate 2x8,25,Orange,4,3
+3031,Plate 4x4,25,Orange,4,1
+3035,Plate 4x8,25,Orange,4,2
+3005,Brick 1x1,28,Dark Tan,69,2
+3024,Plate 1x1,28,Dark Tan,69,6
+3023,Plate 1x2,28,Dark Tan,69,1
+3005,Brick 1x1,43,Trans-Light Blue,15,2
+3004,Brick 1x2,43,Trans-Light Blue,15,1
+3622,Brick 1x3,43,Trans-Light Blue,15,2
+3024,Plate 1x1,43,Trans-Light Blue,15,18
+3023,Plate 1x2,43,Trans-Light Blue,15,5
+3623,Plate 1x3,43,Trans-Light Blue,15,1
+3710,Plate 1x4,43,Trans-Light Blue,15,1
+3005,Brick 1x1,70,Reddish Brown,88,81
+3004,Brick 1x2,70,Reddish Brown,88,24
+3622,Brick 1x3,70,Reddish Brown,88,9
+3010,Brick 1x4,70,Reddish Brown,88,7
+3009,Brick 1x6,70,Reddish Brown,88,7
+3008,Brick 1x8,70,Reddish Brown,88,7
+3003,Brick 2x2,70,Reddish Brown,88,1
+3024,Plate 1x1,70,Reddish Brown,88,358
+3023,Plate 1x2,70,Reddish Brown,88,150
+3623,Plate 1x3,70,Reddish Brown,88,30
+3710,Plate 1x4,70,Reddish Brown,88,25
+3666,Plate 1x6,70,Reddish Brown,88,10
+3460,Plate 1x8,70,Reddish Brown,88,13
+3022,Plate 2x2,70,Reddish Brown,88,7
+3021,Plate 2x3,70,Reddish Brown,88,5
+3020,Plate 2x4,70,Reddish Brown,88,11
+3795,Plate 2x6,70,Reddish Brown,88,5
+3034,Plate 2x8,70,Reddish Brown,88,3
+3031,Plate 4x4,70,Reddish Brown,88,2
+3032,Plate 4x6,70,Reddish Brown,88,1
+3024,Plate 1x1,71,Light Bluish Gray,86,11
+3005,Brick 1x1,72,Dark Bluish Gray,85,7
+3622,Brick 1x3,72,Dark Bluish Gray,85,2
+3010,Brick 1x4,72,Dark Bluish Gray,85,2
+3024,Plate 1x1,72,Dark Bluish Gray,85,58
+3023,Plate 1x2,72,Dark Bluish Gray,85,10
+3623,Plate 1x3,72,Dark Bluish Gray,85,4
+3710,Plate 1x4,72,Dark Bluish Gray,85,3
+3460,Plate 1x8,72,Dark Bluish Gray,85,2
+3005,Brick 1x1,84,Medium Nougat,150,40
+3004,Brick 1x2,84,Medium Nougat,150,9
+3622,Brick 1x3,84,Medium Nougat,150,6
+3010,Brick 1x4,84,Medium Nougat,150,10
+3024,Plate 1x1,84,Medium Nougat,150,154
+3023,Plate 1x2,84,Medium Nougat,150,36
+3623,Plate 1x3,84,Medium Nougat,150,10
+3710,Plate 1x4,84,Medium Nougat,150,8
+3666,Plate 1x6,84,Medium Nougat,150,2
+3460,Plate 1x8,84,Medium Nougat,150,2
+3005,Brick 1x1,191,Bright Light Orange,110,4
+3024,Plate 1x1,191,Bright Light Orange,110,16
+3023,Plate 1x2,191,Bright Light Orange,110,6
+3623,Plate 1x3,191,Bright Light Orange,110,2
+3710,Plate 1x4,191,Bright Light Orange,110,1
+3005,Brick 1x1,226,Bright Light Yellow,103,4
+3024,Plate 1x1,226,Bright Light Yellow,103,12
+3023,Plate 1x2,226,Bright Light Yellow,103,1
+3623,Plate 1x3,226,Bright Light Yellow,103,2
+3005,Brick 1x1,272,Dark Blue,63,44
+3004,Brick 1x2,272,Dark Blue,63,20
+3622,Brick 1x3,272,Dark Blue,63,10
+3010,Brick 1x4,272,Dark Blue,63,4
+3008,Brick 1x8,272,Dark Blue,63,7
+3024,Plate 1x1,272,Dark Blue,63,172
+3023,Plate 1x2,272,Dark Blue,63,62
+3623,Plate 1x3,272,Dark Blue,63,38
+3710,Plate 1x4,272,Dark Blue,63,20
+3666,Plate 1x6,272,Dark Blue,63,11
+3460,Plate 1x8,272,Dark Blue,63,19
+3021,Plate 2x3,272,Dark Blue,63,3
+3020,Plate 2x4,272,Dark Blue,63,3
+3795,Plate 2x6,272,Dark Blue,63,3
+3034,Plate 2x8,272,Dark Blue,63,3
+3032,Plate 4x6,272,Dark Blue,63,1
+3005,Brick 1x1,323,Light Aqua,152,2
+3024,Plate 1x1,323,Light Aqua,152,9
+3005,Brick 1x1,330,Olive Green,155,3
+3004,Brick 1x2,330,Olive Green,155,1
+3024,Plate 1x1,330,Olive Green,155,4
+3023,Plate 1x2,330,Olive Green,155,9
+3623,Plate 1x3,330,Olive Green,155,1
+3710,Plate 1x4,330,Olive Green,155,3
+3666,Plate 1x6,330,Olive Green,155,1
+3022,Plate 2x2,330,Olive Green,155,1
+3021,Plate 2x3,330,Olive Green,155,1
+3795,Plate 2x6,330,Olive Green,155,2
+3005,Brick 1x1,484,Dark Orange,68,46
+3004,Brick 1x2,484,Dark Orange,68,15
+3622,Brick 1x3,484,Dark Orange,68,1
+3010,Brick 1x4,484,Dark Orange,68,1
+3009,Brick 1x6,484,Dark Orange,68,1
+3024,Plate 1x1,484,Dark Orange,68,252
+3023,Plate 1x2,484,Dark Orange,68,96
+3623,Plate 1x3,484,Dark Orange,68,20
+3710,Plate 1x4,484,Dark Orange,68,8
+3666,Plate 1x6,484,Dark Orange,68,7
+3460,Plate 1x8,484,Dark Orange,68,2
+3022,Plate 2x2,484,Dark Orange,68,20
+3021,Plate 2x3,484,Dark Orange,68,3
+3020,Plate 2x4,484,Dark Orange,68,4
+3795,Plate 2x6,484,Dark Orange,68,1
+3034,Plate 2x8,484,Dark Orange,68,2

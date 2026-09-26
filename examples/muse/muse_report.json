@@ -1,0 +1,41 @@
+{
+  "name": "muse",
+  "height_mm": 270.0,
+  "grid_studs": [
+    22,
+    22
+  ],
+  "grid_plates": 85,
+  "size_mm": [
+    176,
+    272,
+    176
+  ],
+  "cells": 19698,
+  "parts": 1940,
+  "part_colour_lines": 73,
+  "steps": 287,
+  "sections": 8,
+  "stud_connections": 3075,
+  "floating_after_repair": 0,
+  "colours": {
+    "Tan": 1545,
+    "White": 206,
+    "Trans-Light Blue": 121,
+    "Bright Pink": 51,
+    "Black": 17
+  },
+  "bricks": 818,
+  "plates": 1122,
+  "centre_of_mass": {
+    "x_studs": 10.949741090466038,
+    "z_studs": 10.02548482079399,
+    "y_plates": 40.34282668291197,
+    "inside_footprint": true,
+    "margin_studs": 4.105745245558848,
+    "base_cells": 108
+  },
+  "bridges": 316,
+  "eye_level_plate": 63,
+  "seconds": 2.3
+}
