@@ -346,7 +346,7 @@ def find_bridges_layer(y, occ2d, colour, fmask, surf, taken, grid):
             for xx in range(old[2], old[2] + old[4]):
                 for zz in range(old[3], old[3] + old[5]):
                     taken[xx, zz] = False; owner.pop((xx, zz), None)
-        col = int(colour[xa, za]) if surf[xa, za] else int(colour[xb, zb])
+        col = int(colour[xb, zb]) if surf[xb, zb] else int(colour[xa, za])
         best, best_score = None, -1e9
         for (w, d, num, rot) in cands:
             for x0 in range(max(0, max(xa, xb) - w + 1), min(xa, xb) + 1):
@@ -356,11 +356,12 @@ def find_bridges_layer(y, occ2d, colour, fmask, surf, taken, grid):
                     if not occ2d[x0:x0+w, z0:z0+d].all() or taken[x0:x0+w, z0:z0+d].any():
                         continue
                     cb = colour[x0:x0+w, z0:z0+d]; sb = surf[x0:x0+w, z0:z0+d]
-                    if ((cb != col) & sb).any():
-                        continue
                     fb = fmask[x0:x0+w, z0:z0+d]
+                    # grounded surface cells keep their colour; floating cells may take the bridge colour
+                    if ((cb != col) & sb & ~fb).any():
+                        continue
                     side = min(int(fb.sum()), int((~fb).sum()))
-                    score = w * d + 4 * side - 2 * int(((cb != col) & ~sb).sum())
+                    score = w * d + 4 * side - 2 * int(((cb != col) & ~sb).sum()) - 3 * int(((cb != col) & sb & fb).sum())
                     if score > best_score:
                         best, best_score = (x0, z0, w, d, num, rot), score
         if best is None:
