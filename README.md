@@ -45,3 +45,7 @@ Open the `.ldr` in BrickLink Studio, upload the wanted list to BrickLink, build.
 ## credits
 
 Part shapes from the [LDraw parts library](https://www.ldraw.org) (CC BY 4.0); part and colour data conventions from [Rebrickable](https://rebrickable.com) and [BrickLink](https://www.bricklink.com). LEGO® is a trademark of the LEGO Group, which does not sponsor, authorize or endorse this project. Muse belongs to Meta. Neo belongs to 01Labs. Built in one evening with Claude Code.
+
+## more research
+
+https://01labs.ai/research
